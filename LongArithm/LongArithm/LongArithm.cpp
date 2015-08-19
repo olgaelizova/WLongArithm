@@ -1,6 +1,6 @@
 // LongArithm.cpp : Defines the entry point for the console application.
 // ffffffff  gegge
-
+// piu piu piu
 #include "stdafx.h"
 
 #include "WNFLInteger.h"
