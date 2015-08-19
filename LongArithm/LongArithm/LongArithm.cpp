@@ -1,5 +1,5 @@
 // LongArithm.cpp : Defines the entry point for the console application.
-//
+// ffffffff  gegge
 
 #include "stdafx.h"
 
